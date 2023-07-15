@@ -99,3 +99,20 @@ button{
 .left-offer p{
     padding: 20px;
 }
+.instagram-message{
+    text-align: center;
+}
+.instagram-message p{
+    padding: 10px;
+}
+.instagram-main{
+    padding: 100px;
+}
+.insta-img{
+    /* display: flex;
+    justify-content: space-evenly;*/
+    padding-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+
+}
