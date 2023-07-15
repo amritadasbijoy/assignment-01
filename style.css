@@ -85,3 +85,17 @@ button{
 .service-container img{
     padding-bottom: 15px;
 }
+.offer-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #fddae2;
+    padding: 50px ;
+
+}
+.left-offer{
+    text-align: center;
+}
+.left-offer p{
+    padding: 20px;
+}
