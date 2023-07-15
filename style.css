@@ -138,3 +138,19 @@ button{
 .input-container{
     padding-top: 20px;
 }
+.footer-main{
+    background-color: rgb(31, 29, 29);
+    color: white;
+    text-align: center;
+    padding: 100px 100px;
+
+    margin-top: 100px;
+
+}
+span{
+    color: #e45372;
+}
+.footer-main p{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
