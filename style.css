@@ -43,7 +43,9 @@ button{
 .nav-menu a{
     text-decoration: none;
     color: #282526;
-    padding-left: 30px;
+    padding-left: 35px;
+    font-size: 22px;
+    font-weight: 700;
 }
 .single-flower {
     text-align: center;
